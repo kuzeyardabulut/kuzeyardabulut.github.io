@@ -1,1 +1,0 @@
-# kuzeyardabulut.github.io
