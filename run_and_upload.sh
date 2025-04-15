@@ -1,1 +1,0 @@
-./tools/deploy.sh --dry-run && cd _site && find . -type f | xargs sed -i 's/\/Cyber-Blog\//\//g' && cd ..
